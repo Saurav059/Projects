@@ -49,4 +49,8 @@ form .disp input{
 
 form input.eq{
     width: 145px;
+    color: #ea9308;
+}
+form input.operator{
+  color: #ea9308;  
 }
